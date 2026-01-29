@@ -16,5 +16,5 @@ Trying to implement github hook trigger
 
 
 
-
+Checking Poll SCM for checking new commits
 
